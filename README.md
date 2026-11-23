@@ -58,13 +58,6 @@ module tb;
     end
 
 endmodule
-
-
-
-
-
-
-
     
 ## Truth Table
  
